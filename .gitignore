@@ -2,6 +2,8 @@
 *.epub
 __pycache__/
 *.py[cod]
+/.idea
+.gitignore
 
 # C extensions
 *.so
